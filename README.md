@@ -1,37 +1,25 @@
-## Welcome!
+### Bienvenidos 
 
-Test1
+##Este Sitio esta en construcción vuelva en unos nanosegundos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Reloj de arena
 
-### Markdown
+La arena de los ciclos es la misma 
+E infinita es la historia de la arena; 
+Así, bajo tus dichas o tu pena, 
+La invulnerable eternidad se abisma. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+No se detiene nunca la caída 
+Yo me desangro, no el cristal. El rito 
+De decantar la arena es infinito 
+Y con la arena se nos va la vida. 
 
-```markdown
-Syntax highlighted code block
+En los minutos de la arena creo 
+Sentir el tiempo cósmico: la historia 
+Que encierra en sus espejos la memoria 
+O que ha disuelto el mágico Leteo. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IsGus/IsGus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Todo lo arrastra y pierde este incansable 
+Hilo sutil de arena numerosa. 
+No he de salvarme yo, fortuita cosa 
+De tiempo, que es materia deleznable.
