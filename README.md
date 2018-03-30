@@ -23,3 +23,11 @@ Todo lo arrastra y pierde este incansable
 Hilo sutil de arena numerosa. 
 No he de salvarme yo, fortuita cosa 
 De tiempo, que es materia deleznable.
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
